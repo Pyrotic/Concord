@@ -1,7 +1,7 @@
 # Concord
 Collaborative Ordered Network (CON)
 
-Welcome to Concord, a visionary endeavor in the realm of blockchain technology—a realm as boundless as the ocean yet often plagued by turbulent waters. Concord stands as the lighthouse, a beacon guiding us toward cooperation, sustainability, and inclusivity. It is not just a consensus mechanism; it is a philosophy—a declaration of how decentralized networks can serve not only human innovation but also the health of our planet.
+Welcome to Concord, a visionary endeavor in the realm of blockchain technology—a realm as boundless as the ocean yet often plagued by turbulent waters. Concord stands as the lighthouse, a beacon guiding us toward cooperation, sustainability, and inclusivity. It is not just a consensus mechanism; it is a philosophy—a **declaration** of how decentralized networks can serve not only human innovation but also the health of our planet.
 
 At its heart, Concord is a symphony of collaboration. It moves away from the energy-hungry roar of Proof of Work, where computational power reigns supreme, and the exclusivity of Proof of Stake, where wealth can stifle innovation. Instead, it introduces **Proof of Collaboration (PoC)**—a revolutionary mechanism that rewards trustworthiness and collective effort, making the network a living ecosystem rather than a competitive battlefield.
 
@@ -13,4 +13,4 @@ In Concord, reputation is a non-fungible asset—unique, irreplaceable, and tied
 
 This project isn’t merely about building better technology; it’s about crafting a better paradigm—a world where the blockchain doesn’t just mirror the flaws of traditional systems but transcends them. It is a call to visionaries, innovators, and collaborators to reimagine the possibilities of decentralized networks. As Concord opens its doors, it invites you not only to contribute your expertise but to become part of something larger—a shared journey toward an equitable, sustainable, and cooperative digital frontier.
 
-Welcome to Concord. Together, we will redefine what it means to connect, collaborate, and create.
+Welcome to Concord. Together, we will redefine what it means to *connect*, *collaborate*, and *create*.
