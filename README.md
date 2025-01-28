@@ -1,5 +1,5 @@
 # Concord
-Collaborative Ordered Network (CON)
+## Collaborative Ordered Network (CON)
 
 Welcome to Concord, a visionary endeavor in the realm of blockchain technology—a realm as boundless as the ocean yet often plagued by turbulent waters. Concord stands as the lighthouse, a beacon guiding us toward cooperation, sustainability, and inclusivity. It is not just a consensus mechanism; it is a philosophy—a **declaration** of how decentralized networks can serve not only human innovation but also the health of our planet.
 
