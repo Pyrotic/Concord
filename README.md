@@ -1,2 +1,2 @@
 # Concord
-Consistent Ordered Network (CON)
+Collaborative Ordered Network (CON)
