@@ -1,2 +1,2 @@
 # Concord
-## Collaborative Ordered Network *(CON)*
+## Collaborative & Open Network *(CON)*
